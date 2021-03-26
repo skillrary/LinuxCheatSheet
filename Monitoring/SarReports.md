@@ -1,4 +1,4 @@
-** Using sar you can monitor performance of various Linux subsystems (CPU, Memory, I/O..) in real time.
+*** Using sar you can monitor performance of various Linux subsystems (CPU, Memory, I/O..) in real time.
 
 Using sar, you can also collect all performance data on an on-going basis, store them, and do historical analysis to identify bottlenecks.
 
