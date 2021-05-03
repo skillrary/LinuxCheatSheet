@@ -14,3 +14,8 @@ df -h
 ````
 du -h
 ````
+
+### Show memory utilization
+````
+free -h
+````
