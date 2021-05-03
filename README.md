@@ -1,7 +1,7 @@
 # LinuxCheatSheet by Mithun Ashok
 
 ### Find out how many apache2 process are running
-```shell
+```
 ps -ef | grep apache2| wc -l
 ````
 
